@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900"
+     height="300"
+     viewBox="0 0 900 300">
+
+  <rect
+    width="900"
+    height="300"
+    rx="40"
+    fill="#111827"/>
+
+  <g
+    stroke="#D4AF37"
+    stroke-width="12"
+    fill="none"
+    stroke-linecap="round">
+
+    <line
+      x1="150"
+      y1="70"
+      x2="150"
+      y2="210"/>
+
+    <line
+      x1="90"
+      y1="110"
+      x2="210"
+      y2="110"/>
+
+    <line
+      x1="90"
+      y1="110"
+      x2="65"
+      y2="165"/>
+
+    <line
+      x1="210"
+      y1="110"
+      x2="235"
+      y2="165"/>
+
+    <path
+      d="M45 165 Q65 190 85 165"/>
+
+    <path
+      d="M195 165 Q235 190 255 165"/>
+
+    <line
+      x1="120"
+      y1="210"
+      x2="180"
+      y2="210"/>
+
+  </g>
+
+  <text
+    x="300"
+    y="180"
+    fill="#ffffff"
+    font-family="Arial, sans-serif"
+    font-size="90"
+    font-weight="700">
+
+    LegalEase
+
+  </text>
+
+</svg>
